@@ -1,0 +1,5 @@
+C:\Users\Jordan\Desktop\CodematicDemo\DBUtility\bin\Release\Ncu.jsj.DBUtility.dll
+C:\Users\Jordan\Desktop\CodematicDemo\DBUtility\bin\Release\MySql.Data.dll
+C:\Users\Jordan\Desktop\CodematicDemo\DBUtility\bin\Release\System.Data.SQLite.DLL
+C:\Users\Jordan\Desktop\CodematicDemo\DBUtility\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Jordan\Desktop\CodematicDemo\DBUtility\obj\Release\Ncu.jsj.DBUtility.dll

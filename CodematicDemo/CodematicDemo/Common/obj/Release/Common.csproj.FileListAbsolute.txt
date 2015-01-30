@@ -1,0 +1,6 @@
+C:\Users\Jordan\Desktop\CodematicDemo\Common\bin\Release\Ncu.jsj.Common.dll
+C:\Users\Jordan\Desktop\CodematicDemo\Common\bin\Release\COM.Excel.dll
+C:\Users\Jordan\Desktop\CodematicDemo\Common\bin\Release\OpenSmtp.dll
+C:\Users\Jordan\Desktop\CodematicDemo\Common\bin\Release\OWC10Chart.dll
+C:\Users\Jordan\Desktop\CodematicDemo\Common\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Jordan\Desktop\CodematicDemo\Common\obj\Release\Ncu.jsj.Common.dll

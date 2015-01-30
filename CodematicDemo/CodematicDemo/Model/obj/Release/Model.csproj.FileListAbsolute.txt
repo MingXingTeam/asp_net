@@ -1,0 +1,3 @@
+C:\Users\Jordan\Desktop\CodematicDemo\Model\bin\Release\Ncu.jsj.Model.dll
+C:\Users\Jordan\Desktop\CodematicDemo\Model\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Jordan\Desktop\CodematicDemo\Model\obj\Release\Ncu.jsj.Model.dll

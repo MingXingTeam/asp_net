@@ -1,0 +1,5 @@
+C:\Users\Jordan\Desktop\CodematicDemo\DALFactory\bin\Release\Ncu.jsj.DALFactory.dll
+C:\Users\Jordan\Desktop\CodematicDemo\DALFactory\bin\Release\Ncu.jsj.IDAL.dll
+C:\Users\Jordan\Desktop\CodematicDemo\DALFactory\bin\Release\Ncu.jsj.Model.dll
+C:\Users\Jordan\Desktop\CodematicDemo\DALFactory\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Jordan\Desktop\CodematicDemo\DALFactory\obj\Release\Ncu.jsj.DALFactory.dll

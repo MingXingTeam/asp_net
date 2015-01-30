@@ -1,0 +1,6 @@
+C:\Users\maoxunxing\Desktop\新建文件夹 (3)\rbac\Common\bin\Release\ncu.mao.Common.dll
+C:\Users\maoxunxing\Desktop\新建文件夹 (3)\rbac\Common\bin\Release\COM.Excel.dll
+C:\Users\maoxunxing\Desktop\新建文件夹 (3)\rbac\Common\bin\Release\OpenSmtp.dll
+C:\Users\maoxunxing\Desktop\新建文件夹 (3)\rbac\Common\bin\Release\OWC10Chart.dll
+C:\Users\maoxunxing\Desktop\新建文件夹 (3)\rbac\Common\obj\Release\ResolveAssemblyReference.cache
+C:\Users\maoxunxing\Desktop\新建文件夹 (3)\rbac\Common\obj\Release\ncu.mao.Common.dll

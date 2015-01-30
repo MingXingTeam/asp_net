@@ -1,0 +1,10 @@
+C:\Users\Jordan\Desktop\CodematicDemo\OracleDAL\bin\Release\Ncu.jsj.OracleDAL.dll
+C:\Users\Jordan\Desktop\CodematicDemo\OracleDAL\bin\Release\Ncu.jsj.Common.dll
+C:\Users\Jordan\Desktop\CodematicDemo\OracleDAL\bin\Release\Ncu.jsj.DBUtility.dll
+C:\Users\Jordan\Desktop\CodematicDemo\OracleDAL\bin\Release\Ncu.jsj.IDAL.dll
+C:\Users\Jordan\Desktop\CodematicDemo\OracleDAL\bin\Release\Ncu.jsj.Model.dll
+C:\Users\Jordan\Desktop\CodematicDemo\OracleDAL\bin\Release\OpenSmtp.dll
+C:\Users\Jordan\Desktop\CodematicDemo\OracleDAL\bin\Release\System.Data.SQLite.dll
+C:\Users\Jordan\Desktop\CodematicDemo\OracleDAL\bin\Release\MySql.Data.dll
+C:\Users\Jordan\Desktop\CodematicDemo\OracleDAL\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Jordan\Desktop\CodematicDemo\OracleDAL\obj\Release\Ncu.jsj.OracleDAL.dll

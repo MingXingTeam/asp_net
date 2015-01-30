@@ -1,0 +1,8 @@
+C:\Users\Jordan\Desktop\CodematicDemo\BLL\bin\Release\Ncu.jsj.BLL.dll
+C:\Users\Jordan\Desktop\CodematicDemo\BLL\bin\Release\Ncu.jsj.Common.dll
+C:\Users\Jordan\Desktop\CodematicDemo\BLL\bin\Release\Ncu.jsj.DALFactory.dll
+C:\Users\Jordan\Desktop\CodematicDemo\BLL\bin\Release\Ncu.jsj.IDAL.dll
+C:\Users\Jordan\Desktop\CodematicDemo\BLL\bin\Release\Ncu.jsj.Model.dll
+C:\Users\Jordan\Desktop\CodematicDemo\BLL\bin\Release\OpenSmtp.dll
+C:\Users\Jordan\Desktop\CodematicDemo\BLL\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Jordan\Desktop\CodematicDemo\BLL\obj\Release\Ncu.jsj.BLL.dll

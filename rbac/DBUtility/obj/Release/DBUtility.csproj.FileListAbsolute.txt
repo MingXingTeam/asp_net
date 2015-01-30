@@ -1,0 +1,5 @@
+C:\Users\maoxunxing\Desktop\新建文件夹 (3)\rbac\DBUtility\bin\Release\ncu.mao.DBUtility.dll
+C:\Users\maoxunxing\Desktop\新建文件夹 (3)\rbac\DBUtility\bin\Release\MySql.Data.dll
+C:\Users\maoxunxing\Desktop\新建文件夹 (3)\rbac\DBUtility\bin\Release\System.Data.SQLite.DLL
+C:\Users\maoxunxing\Desktop\新建文件夹 (3)\rbac\DBUtility\obj\Release\ResolveAssemblyReference.cache
+C:\Users\maoxunxing\Desktop\新建文件夹 (3)\rbac\DBUtility\obj\Release\ncu.mao.DBUtility.dll
