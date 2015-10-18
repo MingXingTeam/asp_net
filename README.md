@@ -1,2 +1,2 @@
 # asp_net
-aps.net project in my college
+an aps.net project during my college
